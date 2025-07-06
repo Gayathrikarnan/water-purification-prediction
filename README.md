@@ -2,7 +2,7 @@
 This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor
 
 OVERVIEW
-This project aims to predict the concentration levels of six key water pollutants using historical environmental monitoring data. By utilizing machine learning, it helps forecast pollution trends at different water monitoring stations based on the year of interest. This can assist researchers, policymakers, and environmentalists in proactive water quality management.
+This project aims to predict the concentration levels of six key water pollutants using historical environmental monitoring data. By utilizing machine learning, it helps forecast pollution trends at different water monitoring stations based on the year of interest.
 
 POLLUTANTS PREDICTED:
 
