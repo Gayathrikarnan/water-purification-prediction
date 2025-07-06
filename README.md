@@ -15,11 +15,11 @@ CL (Chloride)
 
  # TECHNOLOGIES USED
  - **python** - 3.11
- -**Scikit-learn** — Model building (RandomForest + MultiOutputRegressor)
- -**pandas / numpy**— Data cleaning & transformation
- -**Joblib**— Model serialization  
- -**Streamlit** — Web app for deployment.
- -**Metrics** — MSE, R² Score for evaluation.
+ - **Scikit-learn** — Model building (RandomForest + MultiOutputRegressor)
+ - **pandas / numpy**— Data cleaning & transformation
+ - **Joblib**— Model serialization  
+ - **Streamlit** — Web app for deployment.
+ - **Metrics** — MSE, R² Score for evaluation.
 
 # DATA PREPROCESSING:
 --Loading Data
