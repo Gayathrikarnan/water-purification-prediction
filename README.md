@@ -1,4 +1,4 @@
-# water-purification-prediction
+# WATER QUALITY PREDICTION
 This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor
 
 # OVERVIEW
@@ -29,7 +29,7 @@ Handling Missing Values
 Feature Encoding
 
 # MODEL:
- Multi-Output Regression
+ Multi-Output Regression and
  Random Forest Regressor
 
 # DEPLOYMENT:
