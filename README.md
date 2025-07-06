@@ -14,19 +14,19 @@ PO4 (Phosphate)
 CL (Chloride)
 
  # TECHNOLOGIES USED
-  python - 3.11
-  Scikit-learn — Model building (RandomForest + MultiOutputRegressor)
-  pandas / numpy — Data cleaning & transformation
-  Joblib — Model serialization  
-  Streamlit — Web app for deployment.
-  Metrics — MSE, R² Score for evaluation.
+ -- python - 3.11
+ --Scikit-learn — Model building (RandomForest + MultiOutputRegressor)
+ --pandas / numpy — Data cleaning & transformation
+ --Joblib — Model serialization  
+ --Streamlit — Web app for deployment.
+ --Metrics — MSE, R² Score for evaluation.
 
 # DATA PREPROCESSING:
-Loading Data
-Date Parsing & Sorting
-Feature Engineering
-Handling Missing Values
-Feature Encoding
+--Loading Data
+--Date Parsing & Sorting
+--Feature Engineering
+--Handling Missing Values
+--Feature Encoding
 
 # MODEL:
  Multi-Output Regression and
